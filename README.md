@@ -9,7 +9,7 @@
 > I've taken the Data Set from Kaggle (https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data). The data set contains information about
 > NYCitiBike's stations location as well as trip durations, cutomer gender and age and more.
 ## **Visualizations**
-> All the visualizations and some of the analysis can be found on Tableau Public server (public.tableau.com/app/profile/ivan.dimitrov/viz/NYCitiBikeProjectAnalysis-IvanDimitrov/NYCitiBikeProjectAnalysis?publish=yes).
+> All the visualizations and some of the analysis can be found on Tableau Public server (https://public.tableau.com/app/profile/ivan.dimitrov/viz/NYCitiBikeProjectAnalysis-IvanDimitrov/NYCitiBikeProjectAnalysis?publish=yes).
 ## **Tools and Skills used in the Project**
 > Python, Jupyter, Jupyter Notebook, Anaconda Navigator, Microsoft Excel, Tableau Public,
 > Spotting trends, Data cleaning and manipulation, Derivation of meaningful insights, Regression Analysis, Cluster Analysis, Time-Series Analysis,
